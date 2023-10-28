@@ -84,7 +84,7 @@ AlumnoUPM
 │  │  │           ├─ ControlAlmacenMonitorXD.java
 │  │  │           ├─ controlAlmacenTest.java
 │  │  │           └─ Fabrica.java
-│  │  └─ Entragas
+│  │  └─ Entregas
 │  │     ├─ lib
 │  │     │  └─ cclib.jar
 │  │     └─ src
